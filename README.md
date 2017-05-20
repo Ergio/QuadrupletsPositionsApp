@@ -9,6 +9,7 @@ More features will be added in future...
 
 
 Features:
+
   -Can downloading genomes from NCBI server using NCBI API (Currently don't work on Windows properly)
   
   -Can make calculations with triplets and tetraplets
@@ -16,4 +17,5 @@ Features:
   -Can use spline or line plotting
 
 Bugs:
+
   -Downloading doesn't work on Windows systems
